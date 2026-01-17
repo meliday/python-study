@@ -1,2 +1,4 @@
-# python-study
-Study about Python
+# Python 자료형 공부 기록
+
+이 레포는 Python을 처음부터 다시 공부하면서
+헷갈렸던 점, 몰랐던 점을 그대로 정리한 노트다.
