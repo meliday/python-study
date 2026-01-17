@@ -7,31 +7,24 @@ name = "kim"
 str1 = "so hungry"
 print(a.upper())
 
-# upper, lower은 사용자 입력이 제멋대로일 때 - 비교하기 쉽게 “정규화”할 때 필수적으로 이용하게 된다
-
-# ans = input("y/n: ")
-# if ans.lower() == "y":
-#    print("시작!")
-
 
 print(a.split())
 print(a.replace("world", "python"))
 print(name+"is"+str1)
 print(name, "is", str1)
 # ,는 프린트할 때 띄어쓰기 하는 기능을 해줌
+
 print(f"Is {name} Hong?")
 print("Is %s Hong?" % name)
 print("Is {0} hong?".format(name))
 
-#About F-String..2017년? 그때 공부할 때는 없었던 것 같음!! 요즘 f-string 위주로 사용됨, .format은 과도기? 읽을줄만 알면 된다했음
 
 print(a.find("e"))
 print(a.join("e"))
 
-# replace
+
 c = "Life is too short"
 print(c.replace("Life", "your leg")) 
 
-#immutable 자료형이기에, list와 달리 새롭게 정의해야함
 
 
