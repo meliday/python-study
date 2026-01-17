@@ -34,6 +34,4 @@ print(c.replace("Life", "your leg"))
 
 #immutable 자료형이기에, list와 달리 새롭게 정의해야함
 
-#replace 함수는 
-#.replace(바뀔 문자열, 바꿀 문자열)처럼 사용해서 문자열 안의 특정한 값을 다른 값으로 치환해준다
 
